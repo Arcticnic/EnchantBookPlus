@@ -17,5 +17,5 @@ enchantments:
         cost: "*150"
 
     -   name: ALL
-        max-level: "+1"
+        max-level: "+10"
         cost: 100
